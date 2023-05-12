@@ -4,7 +4,7 @@ Ky projekt është punuar në kuadër të përmbushjes së detyrës semestrale n
 Profesor: PhD.c Mërgim Hoti
 
 # Grupi punues:
-•[Dafina Balaj](https://github.com/daf1na) 
+•[Dafina Balaj](https://github.com/dafinabalaj) 
 
 •[Dafina Sadiku](https://github.com/dafiinaa) 
 
