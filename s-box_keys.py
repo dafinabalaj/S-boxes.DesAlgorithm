@@ -1,3 +1,8 @@
+# n paraqet numrin e input bitave
+# P eshte nje liste qe permban m integera
+# Integerat ne P jane ne mes te 1 dhe n
+# Input parametri x eshte nje integer n-bitesh
+# Outputi y eshte nje integer m-bitesh
 def pbox(x, P, n):
     y = 0
     for i in P:
