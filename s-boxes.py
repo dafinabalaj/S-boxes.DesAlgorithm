@@ -1,6 +1,4 @@
-# Implementimi i punes se SBoxave S1, ... , S8 te algoritmit DES
-
-# x eshte 6 bitesh
+# x vlere 6 biteshe
 # Indexi qe kthehet eshte ne intervalin {0,...,63}
 
 
@@ -54,7 +52,7 @@ s8 = [13, 2, 8, 4, 6, 15, 11, 1, 10, 9, 3, 14, 5, 0, 12, 7,
 
 s = [s1, s2, s3, s4, s5, s6, s7, s8]
 
-# x eshte 6 bitesh
+# x eshte vlere 6 biteshe
 # i eshte ne intervalin {1,...,8}
 
 def S(i, x):
